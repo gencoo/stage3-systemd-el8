@@ -3,6 +3,7 @@
 
 ###specific el8###
 app-arch/rpm-macros
+sys-auth/passwd
 sys-devel/annobin
 sys-boot/dbxtool
 sys-boot/shim
