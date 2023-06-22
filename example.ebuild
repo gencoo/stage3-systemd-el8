@@ -13,12 +13,14 @@ CMAKE_MAKEFILE_GENERATOR=emake
 	append-libs
 	append-ldflags -Wl,--strip-all -Wl,--as-needed
 
+systemd_enable_service
+
 _hardened_build="undefine"
 _strip_cflags="undefine"
 _strip_ldflags="undefine"
 _annotated_build="undefine"
 _build_flags="undefine"
-
+	QLIST="enable"
 KEYWORDS="amd64 arm64 ~ppc64 ~s390"
 
 DSUFFIX="_$(ver_cut 5).$(ver_cut 7)"
@@ -49,7 +51,8 @@ SANDBOX_WRITE="/etc/:/var/lib/rpm/"
 
 	gen_usr_ldscript -n
 
-	diropts -m 0755 && dodir /etc/ssh/sshd_config.d
+	diropts -m0755
+	dodir /etc/ssh/sshd_config.d
 
 	insopts -m0755
 	insinto $

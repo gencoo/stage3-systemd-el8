@@ -32,7 +32,6 @@ dev-python/pygobject
 dev-python/pyrsistent
 dev-python/pyserial
 dev-python/PySocks
-dev-python/python
 dev-python/pyxdg
 dev-python/pyyaml
 dev-python/requests

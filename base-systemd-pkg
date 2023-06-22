@@ -2,9 +2,13 @@
 ### kde ? eselect profile set --> default/linux/amd64/17.1/desktop/plasma/systemd (stable)
 
 ###specific el8###
-sys-devel/annobin
-sys-kernel/rhel-kernel
 app-arch/rpm-macros
+sys-devel/annobin
+sys-boot/dbxtool
+sys-boot/shim
+sys-boot/shim-unsigned
+sys-kernel/rhel-kernel
+
 ###########
 
 app-arch/brotli
@@ -23,6 +27,7 @@ app-crypt/gnupg
 app-crypt/gpgme
 app-crypt/ima-evm-utils
 app-crypt/p11-kit
+app-crypt/pesign
 app-crypt/tpm2-tss
 app-crypt/trousers
 app-text/docbook-xsl-stylesheets
@@ -168,6 +173,7 @@ sys-block/thin-provisioning-tools
 sys-boot/efibootmgr
 sys-boot/gnu-efi
 sys-boot/grub
+sys-boot/mokutil
 sys-boot/os-prober
 sys-boot/syslinux
 sys-devel/autoconf
