@@ -1,6 +1,6 @@
 Updating Subscription Management repositories.
-Red Hat Enterprise Linux 8 for x86_64 - AppStre 1.3 MB/s | 3.9 MB     00:03    
-Last metadata expiration check: 0:00:01 ago on Fri 02 Jun 2023 10:06:33 AM CST.
+Red Hat Enterprise Linux 8 for x86_64 - AppStre 3.8 kB/s | 3.8 kB     00:00    
+Red Hat Enterprise Linux 8 for x86_64 - AppStre 608 kB/s | 4.0 MB     00:06    
 g/google-crosextra-caladea-fonts-1.002-0.10.20130214.el8.src.rpm
 l/libotf-0.9.13-11.el8.src.rpm
 l/libwpg-0.3.2-1.el8.src.rpm
@@ -841,7 +841,6 @@ e/enscript-1.6.6-17.el8.src.rpm
 p/python-rpmfluff-0.5.7.1-2.el8.src.rpm
 c/compat-libtiff3-3.9.4-13.el8.src.rpm
 d/driverctl-0.111-1.el8.src.rpm
-g/gnome-desktop3-3.32.2-1.el8.src.rpm
 g/gcc-toolset-9-elfutils-0.176-5.el8.src.rpm
 g/gedit-plugins-3.28.1-8.el8.src.rpm
 g/gcc-toolset-9-gdb-8.3-1.el8.src.rpm
@@ -1592,7 +1591,6 @@ l/libXpm-3.5.12-9.el8_7.src.rpm
 s/scap-security-guide-0.1.66-2.el8_7.src.rpm
 p/php-8.0.27-1.module+el8.7.0+17863+0ad92cd2.src.rpm
 n/nss-3.79.0-11.el8_7.src.rpm
-3/389-ds-base-1.4.3.34-1.module+el8.7.0+18367+58a49cb0.src.rpm
 u/upower-0.99.7-4.el8_7.src.rpm
 n/nodejs-18.14.2-2.module+el8.7.0+18445+9493b6ea.src.rpm
 p/pesign-0.112-27.el8_7.src.rpm
@@ -1614,10 +1612,8 @@ j/jsr-305-3.0.2-6.module+el8.8.0+18044+0a924b8f.src.rpm
 r/redhat-rpm-config-131-1.el8.src.rpm
 c/crash-gcore-command-1.6.3-3.el8.src.rpm
 r/rsyslog-8.2102.0-13.el8.src.rpm
-l/leapp-repository-0.18.0-1.el8.src.rpm
 g/gcc-toolset-12-12.0-6.el8.src.rpm
 i/ipa-healthcheck-0.12-1.module+el8.8.0+17583+8c783c60.src.rpm
-c/cups-filters-1.20.0-29.el8.src.rpm
 g/gnome-settings-daemon-3.32.0-19.el8.src.rpm
 v/vulkan-headers-1.3.239.0-1.el8.src.rpm
 o/oddjob-0.34.7-3.el8.src.rpm
@@ -1648,7 +1644,6 @@ i/insights-client-3.1.7-12.el8.src.rpm
 n/nispor-1.2.10-1.el8.src.rpm
 q/qemu-kvm-6.2.0-32.module+el8.8.0+18361+9f407f6e.src.rpm
 g/gnuplot-5.2.4-3.el8.src.rpm
-p/python3.11-3.11.2-2.el8.src.rpm
 j/jansi-2.4.0-6.module+el8.8.0+18044+0a924b8f.src.rpm
 f/fence-virt-1.0.0-6.el8.src.rpm
 t/toolbox-0.0.99.3-7.module+el8.8.0+18119+e3deee03.src.rpm
@@ -1662,7 +1657,6 @@ p/powertop-2.15-1.el8.src.rpm
 m/motif-2.3.4-19.el8.src.rpm
 o/openscap-1.3.7-1.el8.src.rpm
 o/openblas-0.3.15-6.el8.src.rpm
-l/libvirt-8.0.0-19.module+el8.8.0+18453+e0bf0d1d.src.rpm
 s/slirp4netns-1.2.0-2.module+el8.8.0+18060+3f21f2cc.src.rpm
 l/libpmemobj-cpp-1.13.0-1.module+el8.8.0+17329+92b0ed72.src.rpm
 p/pmdk-1.12.1-1.module+el8.8.0+17329+92b0ed72.src.rpm
@@ -1671,16 +1665,11 @@ p/python3.11-pycparser-2.20-1.el8.src.rpm
 g/google-guice-4.2.3-9.module+el8.8.0+18044+0a924b8f.src.rpm
 c/cockpit-composer-45-1.el8_8.src.rpm
 l/lldb-15.0.7-1.module+el8.8.0+17939+b58878af.src.rpm
-a/ansible-core-2.14.2-3.el8.src.rpm
 n/nss_wrapper-1.1.13-1.el8.src.rpm
 e/evolution-mapi-3.28.3-7.el8.src.rpm
 l/libguestfs-1.44.0-9.module+el8.8.0+16781+9f4724c2.src.rpm
 a/anaconda-user-help-8.8.3-1.el8.src.rpm
 d/dpdk-21.11-3.el8.src.rpm
-l/libtpms-0.9.1-2.20211126git1ff6fe1f43.module+el8.8.0+18453+e0bf0d1d.src.rpm
-p/pacemaker-2.1.5-8.el8.src.rpm
-i/inkscape1-1.0.2-2.el8.src.rpm
-p/python39-3.9.16-1.module+el8.8.0+17625+b531f198.src.rpm
 m/mod_security-2.9.6-1.el8.src.rpm
 r/rtla-5.14.0-4.el8.src.rpm
 g/gnome-shell-3.32.2-50.el8.src.rpm
@@ -1699,7 +1688,6 @@ t/thermald-2.5.1-1.el8.src.rpm
 p/python3.11-cffi-1.15.1-1.el8.src.rpm
 p/python-mako-1.0.6-14.el8.src.rpm
 a/abrt-2.10.9-24.el8.src.rpm
-p/python-virtualenv-15.1.0-22.module+el8.8.0+18131+2eb9cbd8.src.rpm
 m/maven-shared-utils-3.3.4-5.module+el8.8.0+18044+0a924b8f.src.rpm
 p/python-simpleline-1.1.3-1.el8.src.rpm
 c/cloud-init-22.1-8.el8.src.rpm
@@ -1719,14 +1707,11 @@ a/alsa-utils-1.2.8-1.el8.src.rpm
 j/jaxb-istack-commons-4.1.1-1.module+el8.8.0+18046+f9f57d24.src.rpm
 c/container-selinux-2.205.0-2.module+el8.8.0+18438+15d3aa65.src.rpm
 a/apache-commons-io-2.11.0-2.module+el8.8.0+18044+0a924b8f.src.rpm
-c/cockpit-appstream-286.1-1.el8.src.rpm
 m/maven-wagon-3.5.1-2.module+el8.8.0+18044+0a924b8f.src.rpm
 s/sisu-0.3.5-2.module+el8.8.0+18044+0a924b8f.src.rpm
 b/bcc-0.25.0-2.el8.src.rpm
-v/virt-v2v-1.42.0-22.module+el8.8.0+18611+5846c3aa.src.rpm
 s/spice-vdagent-win-0.10.0-7.el8.src.rpm
 l/libomp-15.0.7-1.module+el8.8.0+17939+b58878af.src.rpm
-r/rhel-system-roles-1.21.1-1.el8_8.src.rpm
 p/prometheus-jmx-exporter-0.12.0-10.el8.src.rpm
 a/alsa-lib-1.2.8-2.el8.src.rpm
 l/libreoffice-6.4.7.2-13.el8.src.rpm
@@ -1734,7 +1719,6 @@ f/fapolicyd-1.1.3-12.el8.src.rpm
 v/vulkan-loader-1.3.239.0-1.el8.src.rpm
 p/pcp-5.3.7-16.el8.src.rpm
 u/udisks2-2.9.0-13.el8.src.rpm
-i/ipa-4.9.11-5.module+el8.8.0+18147+84fe6ec1.src.rpm
 y/yp-tools-4.2.3-2.el8.src.rpm
 e/eth-tools-11.4.0.0-201.el8.src.rpm
 r/rear-2.6-9.el8.src.rpm
@@ -1759,7 +1743,6 @@ o/open-vm-tools-12.1.5-1.el8.src.rpm
 f/fence-agents-4.2.1-112.el8.src.rpm
 h/httpcomponents-core-4.4.13-7.module+el8.8.0+18044+0a924b8f.src.rpm
 l/libvirt-python-8.0.0-2.module+el8.8.0+16781+9f4724c2.src.rpm
-m/mutter-3.32.2-68.el8.src.rpm
 l/libnbd-1.6.0-5.module+el8.8.0+16781+9f4724c2.src.rpm
 d/desktop-file-utils-0.26-1.el8.src.rpm
 s/slf4j-1.7.32-4.module+el8.8.0+18044+0a924b8f.src.rpm
@@ -1784,14 +1767,12 @@ f/freeradius-3.0.20-14.module+el8.8.0+17558+3f8a93b9.src.rpm
 p/python-lit-15.0.7-1.module+el8.8.0+17939+b58878af.src.rpm
 p/python3.11-scipy-1.10.0-1.el8.src.rpm
 s/scl-utils-2.0.2-16.el8.src.rpm
-p/python2-2.7.18-12.module+el8.8.0+17629+2cfc9d03.src.rpm
 p/python3.11-pip-22.3.1-2.el8.src.rpm
 x/xdp-tools-1.2.10-1.el8.src.rpm
 l/log4j-2.17.2-1.module+el8.8.0+16992+4f38aa72.src.rpm
 p/plexus-cipher-2.0-2.module+el8.8.0+18044+0a924b8f.src.rpm
 s/supermin-5.2.1-2.module+el8.8.0+16781+9f4724c2.src.rpm
 l/libwpe-1.10.0-4.el8.src.rpm
-c/criu-3.15-3.module+el8.8.0+18060+3f21f2cc.src.rpm
 w/weldr-client-35.9-2.el8.src.rpm
 r/rhc-worker-playbook-0.1.8-5.el8.src.rpm
 c/cloud-utils-growpart-0.33-0.el8.src.rpm
@@ -1800,7 +1781,6 @@ g/gnome-online-accounts-3.28.2-4.el8.src.rpm
 p/python3.11-lxml-4.9.2-3.el8.src.rpm
 l/libvirt-dbus-1.3.0-2.module+el8.8.0+16781+9f4724c2.src.rpm
 j/jaxb-4.0.2-1.module+el8.8.0+18099+29768567.src.rpm
-l/libtiff-4.0.9-27.el8.src.rpm
 l/libdrm-2.4.114-1.el8.src.rpm
 c/cockpit-podman-63.1-1.module+el8.8.0+18286+cd236dce.src.rpm
 g/git-lfs-3.2.0-2.el8.src.rpm
@@ -1828,7 +1808,6 @@ c/crash-7.3.2-4.el8.src.rpm
 p/pg_repack-1.4.8-1.module+el8.8.0+17071+aaaceaa4.src.rpm
 p/python-podman-4.4.1-1.module+el8.8.0+18275+3a56cc62.src.rpm
 p/postgresql-jdbc-42.2.14-2.el8.src.rpm
-t/texlive-20180414-28.el8.src.rpm
 s/squid-4.15-6.module+el8.8.0+17468+cecc5697.src.rpm
 g/grafana-7.5.15-4.el8.src.rpm
 v/vulkan-tools-1.3.239.0-1.el8.src.rpm
@@ -1838,7 +1817,6 @@ p/pcm-202211-0.el8.src.rpm
 a/annobin-10.94-1.el8.src.rpm
 c/certmonger-0.79.17-2.el8.src.rpm
 t/tomcat-9.0.62-5.el8.src.rpm
-p/python38-3.8.16-1.module+el8.8.0+17624+9a09af5a.src.rpm
 s/sscg-3.0.0-7.el8.src.rpm
 c/compiler-rt-15.0.7-1.module+el8.8.0+17939+b58878af.src.rpm
 w/wayland-1.21.0-1.el8.src.rpm
@@ -1862,13 +1840,10 @@ o/ostree-2022.2-6.el8.src.rpm
 r/rt-tests-2.5-1.el8.src.rpm
 p/python3.11-pyyaml-6.0-1.el8.src.rpm
 s/spice-client-win-8.8-1.el8.src.rpm
-n/nmstate-1.4.4-1.el8_8.src.rpm
 q/qatengine-1.0.0-1.el8_8.src.rpm
 q/qatlib-23.02.0-2.el8_8.src.rpm
 j/java-17-openjdk-17.0.7.0.7-3.el8.src.rpm
-d/dotnet6.0-6.0.116-2.el8_8.src.rpm
 m/mysql-8.0.32-1.module+el8.8.0+18446+fca6280e.src.rpm
-p/podman-4.4.1-12.module+el8.8.0+18735+a32c1292.src.rpm
 m/mecab-0.996-2.module+el8.8.0+18436+8918dd75.src.rpm
 j/java-11-openjdk-11.0.19.0.7-4.el8.src.rpm
 s/slapi-nis-0.60.0-3.module+el8.8.0+18715+930e9ba0.src.rpm
@@ -1881,17 +1856,42 @@ j/java-1.8.0-openjdk-1.8.0.372.b07-4.el8.src.rpm
 c/crun-1.8.4-2.module+el8.8.0+18669+fa5aca5a.src.rpm
 r/rpm-ostree-2022.10.115.g15eba7b1-2.el8_8.src.rpm
 g/gnome-session-3.28.1-20.el8_8.src.rpm
-d/dotnet7.0-7.0.105-2.el8_8.src.rpm
 l/linuxptp-3.1.1-3.el8_8.1.src.rpm
 g/gssntlmssp-1.2.0-1.el8_8.src.rpm
-n/netavark-1.5.0-5.module+el8.8.0+18690+20d279b6.src.rpm
 l/libreswan-4.9-3.el8_8.src.rpm
-w/webkit2gtk3-2.38.5-1.el8_8.3.src.rpm
 a/apr-util-1.6.1-6.el8_8.1.src.rpm
 m/mod_http2-1.15.7-8.module+el8.8.0+18751+b4557bca.3.src.rpm
 h/httpd-2.4.37-56.module+el8.8.0+18758+b3a9c8da.6.src.rpm
-f/firefox-102.11.0-2.el8_7.src.rpm
-t/thunderbird-102.11.0-1.el8_7.src.rpm
 g/git-2.39.3-1.el8_8.src.rpm
 g/golang-1.19.9-1.module+el8.8.0+18857+fca43658.src.rpm
 g/go-toolset-1.19.9-1.module+el8.8.0+18857+fca43658.src.rpm
+c/cups-filters-1.20.0-29.el8_8.2.src.rpm
+w/webkit2gtk3-2.38.5-1.el8_8.4.src.rpm
+t/thunderbird-102.12.0-1.el8_8.src.rpm
+f/firefox-102.12.0-1.el8_8.src.rpm
+p/python3.11-3.11.2-2.el8_8.1.src.rpm
+t/texlive-20180414-29.el8_8.src.rpm
+p/python-virtualenv-15.1.0-22.module+el8.8.0+18977+47894b34.src.rpm
+p/python38-3.8.16-1.module+el8.8.0+18967+20d359ae.1.src.rpm
+p/python2-2.7.18-13.module+el8.8.0+19042+06909d2c.1.src.rpm
+p/python39-3.9.16-1.module+el8.8.0+18968+3d7b19f0.1.src.rpm
+g/gnome-desktop3-3.32.2-1.el8_8.2.src.rpm
+n/netavark-1.5.1-2.module+el8.8.0+19031+df0566b7.src.rpm
+c/criu-3.15-4.module+el8.8.0+19044+f9982fd8.src.rpm
+r/rhel-system-roles-1.21.2-1.el8_8.src.rpm
+d/dotnet7.0-7.0.108-1.el8_8.src.rpm
+p/pacemaker-2.1.5-8.1.el8_8.src.rpm
+l/leapp-repository-0.18.0-1.el8_8.2.src.rpm
+l/libvirt-8.0.0-19.2.module+el8.8.0+18944+7f5acf75.src.rpm
+d/dotnet6.0-6.0.119-1.el8_8.src.rpm
+p/podman-4.4.1-14.module+el8.8.0+19108+ffbdcd02.src.rpm
+n/nmstate-1.4.4-2.el8_8.src.rpm
+l/libtiff-4.0.9-28.el8_8.src.rpm
+m/mutter-3.32.2-69.el8_8.src.rpm
+3/389-ds-base-1.4.3.35-1.module+el8.8.0+19157+dcce0882.src.rpm
+i/inkscape1-1.0.2-2.el8_8.1.src.rpm
+a/ansible-core-2.14.2-4.el8_8.src.rpm
+i/ipa-4.9.11-6.module+el8.8.0+19022+e8902f4b.src.rpm
+v/virt-v2v-1.42.0-22.module+el8.8.0+19067+b66cdac6.src.rpm
+c/cockpit-appstream-286.2-1.el8_8.src.rpm
+l/libtpms-0.9.1-2.20211126git1ff6fe1f43.module+el8.8.0+18453+1482ba89.src.rpm
