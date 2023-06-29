@@ -2,6 +2,7 @@
 ### kde ? eselect profile set --> default/linux/amd64/17.1/desktop/plasma/systemd (stable)
 
 ###specific el8###
+app-admin/chrpath
 app-arch/rpm-macros
 sys-auth/passwd
 sys-devel/annobin
@@ -23,7 +24,6 @@ app-arch/snappy
 app-arch/tar
 app-arch/unzip
 app-arch/xz-utils
-app-admin/chrpath
 app-crypt/gnupg
 app-crypt/gpgme
 app-crypt/ima-evm-utils
