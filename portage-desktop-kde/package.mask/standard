@@ -123,7 +123,6 @@
 >=net-misc/ipcalc-0.42_p2
 >=net-misc/iputils-20210202
 >=net-misc/memcached-1.6.9
->=net-misc/modemmanager-1.19
 >=net-misc/openssh-8.5_p1-r2
 >=net-misc/radvd-2.19
 >=net-misc/rsync-3.2.3-r4
