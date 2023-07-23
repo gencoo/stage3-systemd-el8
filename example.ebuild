@@ -94,7 +94,8 @@ pkg_setup() {
 }
 
 src_unpack() {
-	rhel_src_unpack ${A}
+	#rhel_src_unpack ${A}
+	rpmbuild_src_unpack ${A}
 }
 
 src_unpack() {

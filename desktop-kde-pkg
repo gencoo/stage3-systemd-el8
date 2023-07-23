@@ -34,6 +34,7 @@ media-libs/libjpeg-turbo
 media-libs/mesa
 media-sound/pulseaudio
 sys-libs/gpm
+sys-libs/slang
 x11-base/xcb-proto
 x11-base/xorg-server
 x11-libs/gtk+-3.22
