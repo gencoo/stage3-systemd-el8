@@ -5,6 +5,7 @@ CMAKE_MAKEFILE_GENERATOR=emake
 	build_cflags
 	build_ldflags
 	filter-flags '-specs=*' '*-annobin-cc1' -fcf-protection -flto=auto '*-hardened-ld'
+	filter-lto
 
 	append-cflags ${optflags}
 	append-ldflags -pie '-Wl,-z,now' ${hardening_ldflags}
