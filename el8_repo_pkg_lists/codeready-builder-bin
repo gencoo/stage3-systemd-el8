@@ -1,7 +1,5 @@
 Updating Subscription Management repositories.
-Red Hat CodeReady Linux Builder for RHEL 8 x86_ 259  B/s | 4.5 kB     00:17    
-Red Hat CodeReady Linux Builder for RHEL 8 x86_ 255 kB/s | 9.7 MB     00:39    
-Last metadata expiration check: 0:00:02 ago on Fri 25 Aug 2023 09:24:50 AM CST.
+Red Hat CodeReady Linux Builder for RHEL 8 x86_ 4.6 kB/s | 4.5 kB     00:00    
 l/libXfont2-devel-2.0.3-2.el8.x86_64.rpm
 l/librados-devel-12.2.7-9.el8.x86_64.rpm
 l/libmaxminddb-devel-1.2.0-6.el8.x86_64.rpm
@@ -34,7 +32,6 @@ j/json-c-devel-0.13.1-0.2.el8.i686.rpm
 o/ocaml-runtime-4.07.0-3.el8.x86_64.rpm
 l/libchamplain-gtk-0.12.16-2.el8.x86_64.rpm
 l/libradosstriper-devel-12.2.7-9.el8.i686.rpm
-f/flac-devel-1.3.2-9.el8.i686.rpm
 l/librbd-devel-12.2.7-9.el8.i686.rpm
 p/perl-YAML-Syck-1.30-5.el8.x86_64.rpm
 l/libEMF-devel-1.0.9-5.el8.x86_64.rpm
@@ -509,7 +506,6 @@ s/spec-version-maven-plugin-javadoc-1.2-11.module+el8+2598+06babf2e.noarch.rpm
 i/iso-codes-devel-3.79-2.el8.noarch.rpm
 m/maven-plugin-bundle-3.5.0-2.module+el8+2598+06babf2e.noarch.rpm
 l/libwnck3-devel-3.24.1-2.el8.x86_64.rpm
-f/flac-devel-1.3.2-9.el8.x86_64.rpm
 a/apache-commons-beanutils-javadoc-1.9.3-4.module+el8+2598+06babf2e.noarch.rpm
 p/perl-IPC-Run-0.99-1.el8.noarch.rpm
 r/rasqal-devel-0.9.33-6.el8.i686.rpm
@@ -802,7 +798,6 @@ p/perl-DateTime-TimeZone-2.19-1.el8.noarch.rpm
 m/maven-doxia-module-twiki-1.7-8.module+el8+2598+06babf2e.noarch.rpm
 j/jline-2.14.6-2.module+el8+2598+06babf2e.noarch.rpm
 p/plexus-compiler-extras-2.8.2-2.module+el8+2598+06babf2e.noarch.rpm
-f/flac-1.3.2-9.el8.x86_64.rpm
 f/fltk-devel-1.3.4-5.el8.x86_64.rpm
 m/mingw32-freetype-2.8-3.el8.noarch.rpm
 l/libappstream-glib-devel-0.7.14-3.el8.i686.rpm
@@ -2144,7 +2139,6 @@ g/ghostscript-tools-printing-9.27-6.el8.x86_64.rpm
 l/libblockdev-loop-devel-2.28-2.el8.i686.rpm
 l/libknet1-devel-1.25-1.el8.x86_64.rpm
 y/yara-devel-4.2.3-1.el8.i686.rpm
-q/qemu-kvm-tests-6.2.0-32.module+el8.8.0+18361+9f407f6e.x86_64.rpm
 r/ruby-hivex-1.3.18-23.module+el8.8.0+16781+9f4724c2.i686.rpm
 l/libnfsidmap-devel-2.3.3-59.el8.i686.rpm
 a/autotrace-0.31.1-55.el8.i686.rpm
@@ -2203,7 +2197,6 @@ c/cifs-utils-devel-7.0-1.el8.i686.rpm
 l/libblockdev-utils-devel-2.28-2.el8.x86_64.rpm
 m/mesa-libOSMesa-devel-22.3.0-2.el8.i686.rpm
 u/upower-devel-0.99.7-4.el8_7.x86_64.rpm
-o/openscap-engine-sce-devel-1.3.7-1.el8.i686.rpm
 n/netcf-libs-0.2.8-12.module+el8.8.0+16781+9f4724c2.i686.rpm
 p/python-ldb-devel-common-2.6.1-1.el8.i686.rpm
 l/libuser-devel-0.62-25.el8.x86_64.rpm
@@ -2270,7 +2263,6 @@ g/graphviz-doc-2.40.1-44.el8.x86_64.rpm
 o/opencryptoki-devel-3.19.0-2.el8.x86_64.rpm
 l/librepo-devel-1.14.2-4.el8.i686.rpm
 a/augeas-devel-1.12.0-8.el8.i686.rpm
-o/openscap-engine-sce-devel-1.3.7-1.el8.x86_64.rpm
 g/graphviz-python3-2.40.1-44.el8.x86_64.rpm
 g/glib2-doc-2.56.4-161.el8.noarch.rpm
 l/libsolv-devel-0.7.20-4.el8_7.i686.rpm
@@ -2293,7 +2285,6 @@ e/elfutils-libelf-devel-static-0.188-3.el8.x86_64.rpm
 l/libblockdev-devel-2.28-2.el8.i686.rpm
 p/procps-ng-devel-3.3.15-13.el8.i686.rpm
 m/mpdecimal-devel-2.5.1-3.el8.x86_64.rpm
-l/libguestfs-winsupport-8.8-1.module+el8.8.0+16781+9f4724c2.i686.rpm
 p/python3.11-pybind11-devel-2.10.3-2.el8.x86_64.rpm
 l/libblockdev-fs-devel-2.28-2.el8.x86_64.rpm
 l/libarchive-devel-3.3.3-5.el8.i686.rpm
@@ -2501,7 +2492,6 @@ l/libsss_nss_idmap-devel-2.8.2-3.el8_8.i686.rpm
 n/NetworkManager-libnm-devel-1.40.16-4.el8_8.i686.rpm
 c/crash-devel-7.3.2-4.el8_8.1.x86_64.rpm
 l/libsss_nss_idmap-devel-2.8.2-3.el8_8.x86_64.rpm
-k/kernel-tools-libs-devel-4.18.0-477.21.1.el8_8.x86_64.rpm
 i/iscsi-initiator-utils-devel-6.2.1.4-8.git095f59c.el8_8.i686.rpm
 c/crash-devel-7.3.2-4.el8_8.1.i686.rpm
 i/iscsi-initiator-utils-devel-6.2.1.4-8.git095f59c.el8_8.x86_64.rpm
@@ -2521,5 +2511,15 @@ j/java-11-openjdk-jmods-fastdebug-11.0.20.0.8-3.el8.x86_64.rpm
 j/java-11-openjdk-src-fastdebug-11.0.20.0.8-3.el8.x86_64.rpm
 j/java-11-openjdk-headless-slowdebug-11.0.20.0.8-3.el8.x86_64.rpm
 j/java-11-openjdk-src-slowdebug-11.0.20.0.8-3.el8.x86_64.rpm
-d/dotnet-sdk-6.0-source-built-artifacts-6.0.121-1.el8_8.x86_64.rpm
-d/dotnet-sdk-7.0-source-built-artifacts-7.0.110-1.el8_8.x86_64.rpm
+f/flac-1.3.2-9.el8_8.1.x86_64.rpm
+f/flac-devel-1.3.2-9.el8_8.1.x86_64.rpm
+f/flac-devel-1.3.2-9.el8_8.1.i686.rpm
+d/dotnet-sdk-6.0-source-built-artifacts-6.0.122-1.el8_8.x86_64.rpm
+d/dotnet-sdk-7.0-source-built-artifacts-7.0.111-1.el8_8.x86_64.rpm
+k/kernel-tools-libs-devel-4.18.0-477.27.1.el8_8.x86_64.rpm
+l/libguestfs-winsupport-8.8-2.module+el8.8.0+19817+dd5e62f6.i686.rpm
+o/openscap-engine-sce-devel-1.3.8-1.el8_8.i686.rpm
+o/openscap-engine-sce-devel-1.3.8-1.el8_8.x86_64.rpm
+q/qemu-kvm-tests-6.2.0-33.module+el8.8.0+19768+98f68f21.x86_64.rpm
+l/libguestfs-winsupport-8.8-2.module+el8.8.0+19817+dd5e62f6.i686.rpm
+q/qemu-kvm-tests-6.2.0-33.module+el8.8.0+19768+98f68f21.x86_64.rpm

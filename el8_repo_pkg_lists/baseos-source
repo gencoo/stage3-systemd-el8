@@ -1,6 +1,6 @@
 Updating Subscription Management repositories.
-Red Hat Enterprise Linux 8 for x86_64 - BaseOS  211  B/s | 3.8 kB     00:18    
-Red Hat Enterprise Linux 8 for x86_64 - BaseOS   49 kB/s | 2.1 MB     00:42    
+Red Hat Enterprise Linux 8 for x86_64 - BaseOS  433 kB/s | 2.1 MB     00:04    
+Last metadata expiration check: 0:00:02 ago on 2023年09月22日 星期五 13时22分48秒.
 d/diffutils-3.6-6.el8.src.rpm
 l/libkeepalive-0.3-8.el8.src.rpm
 x/x3270-3.6ga5-1.el8.src.rpm
@@ -213,7 +213,6 @@ u/usb_modeswitch-data-20191128-1.el8.src.rpm
 l/libnsl2-1.2.0-2.20180605git4a062cf.el8.src.rpm
 m/mcstrans-2.9-2.el8.src.rpm
 l/libpng-1.6.34-5.el8.src.rpm
-f/findutils-4.6.0-20.el8.src.rpm
 n/nfs4-acl-tools-0.3.5-3.el8.src.rpm
 p/portreserve-0.0.5-19.el8.src.rpm
 l/libaio-0.3.112-1.el8.src.rpm
@@ -270,7 +269,6 @@ i/ima-evm-utils-1.3.2-12.el8.src.rpm
 n/nvmetcli-0.7-3.el8.src.rpm
 x/xfsdump-3.1.8-4.el8.src.rpm
 k/keyutils-1.5.10-9.el8.src.rpm
-f/firewalld-0.9.3-13.el8.src.rpm
 l/lm_sensors-3.4.0-23.20180522git70f7e08.el8.src.rpm
 l/libhugetlbfs-2.21-17.el8.src.rpm
 p/pcre2-10.32-3.el8_6.src.rpm
@@ -364,7 +362,6 @@ e/efi-rpm-macros-3-3.el8.src.rpm
 m/man-db-2.7.6.1-18.el8.src.rpm
 e/efivar-37-4.el8.src.rpm
 k/kmod-redhat-mlx5_core-5.0_0_dup8.2-2.el8_2.src.rpm
-n/ncurses-6.1-9.20180224.el8.src.rpm
 k/kmod-redhat-mpt3sas-35.101.00.00_dup8.3-1.el8_3.src.rpm
 n/nettle-3.4.1-7.el8.src.rpm
 k/ksc-1.9-2.el8.src.rpm
@@ -376,7 +373,6 @@ t/tpm-tools-1.3.9.2-1.el8.src.rpm
 c/chkconfig-1.19.1-1.el8.src.rpm
 k/kpatch-patch-4_18_0-193_6_3-1-4.el8_2.src.rpm
 v/vim-8.0.1763-19.el8_6.4.src.rpm
-d/dmidecode-3.3-4.el8.src.rpm
 k/kpatch-patch-4_18_0-305-1-6.el8.src.rpm
 p/python-ply-3.9-9.el8.src.rpm
 n/net-tools-2.0-0.52.20160912git.el8.src.rpm
@@ -394,7 +390,6 @@ p/python-configshell-1.1.28-1.el8.src.rpm
 g/gsettings-desktop-schemas-3.32.0-6.el8.src.rpm
 l/libndp-1.7-6.el8.src.rpm
 g/gnupg2-2.2.20-3.el8_6.src.rpm
-c/ca-certificates-2022.2.54-80.2.el8_6.src.rpm
 l/libsemanage-2.9-9.el8_6.src.rpm
 k/kpatch-patch-4_18_0-372_16_1-1-2.el8_6.src.rpm
 k/kpatch-patch-4_18_0-372_26_1-1-1.el8_6.src.rpm
@@ -485,7 +480,6 @@ l/libtevent-0.13.0-1.el8.src.rpm
 r/realmd-0.17.1-1.el8.src.rpm
 b/binutils-2.30-119.el8.src.rpm
 p/python-dmidecode-3.12.3-2.el8.src.rpm
-i/iptables-1.8.4-24.el8.src.rpm
 e/environment-modules-4.5.2-3.el8.src.rpm
 p/python-setuptools-39.2.0-7.el8.src.rpm
 o/opencryptoki-3.19.0-2.el8.src.rpm
@@ -503,12 +497,10 @@ t/tboot-1.10.5-2.el8.src.rpm
 p/polkit-0.115-15.el8.src.rpm
 l/libdnf-0.63.0-14.el8_8.src.rpm
 l/libtraceevent-1.5.3-1.el8.src.rpm
-c/cups-2.2.6-51.el8.src.rpm
 m/mcelog-189-0.el8.src.rpm
 r/rng-tools-6.15-3.el8.src.rpm
 l/libarchive-3.3.3-5.el8.src.rpm
 g/gcc-8.5.0-18.el8.src.rpm
-l/linux-firmware-20230404-114.git2e92a49f.el8_8.src.rpm
 l/librhsm-0.0.3-5.el8.src.rpm
 k/kmod-redhat-oracleasm-2.0.8-17.el8.src.rpm
 c/cockpit-286.1-1.el8.src.rpm
@@ -556,31 +548,40 @@ e/emacs-26.1-10.el8_8.2.src.rpm
 c/c-ares-1.13.0-6.el8_8.2.src.rpm
 p/python3-3.6.8-51.el8_8.1.src.rpm
 x/xfsprogs-5.0.0-11.el8_8.src.rpm
-s/selinux-policy-3.14.3-117.el8_8.2.src.rpm
 k/kexec-tools-2.0.25-5.el8_8.1.src.rpm
 k/krb5-1.18.2-25.el8_8.src.rpm
 i/iproute-5.18.0-1.1.el8_8.src.rpm
-m/microcode_ctl-20220809-2.20230214.1.el8_8.src.rpm
 a/autofs-5.1.4-102.el8_8.2.src.rpm
 s/sqlite-3.26.0-18.el8_8.src.rpm
 l/libssh-0.9.6-10.el8_8.src.rpm
 b/bind-9.11.36-8.el8_8.1.src.rpm
-s/sos-4.5.5-2.el8.src.rpm
 s/samba-4.17.5-3.el8_8.src.rpm
 o/openssh-8.0p1-19.el8_8.src.rpm
 d/dbus-1.12.8-24.el8_8.1.src.rpm
 c/curl-7.61.1-30.el8_8.3.src.rpm
 g/grub2-2.02-148.el8_8.1.src.rpm
-k/kernel-4.18.0-477.21.1.el8_8.src.rpm
 l/libxml2-2.9.7-16.el8_8.1.src.rpm
 i/iscsi-initiator-utils-6.2.1.4-8.git095f59c.el8_8.src.rpm
-k/kpatch-patch-4_18_0-477_15_1-1-1.el8_8.src.rpm
 n/NetworkManager-1.40.16-4.el8_8.src.rpm
 l/libcap-2.48-5.el8_8.src.rpm
 p/python-requests-2.20.0-3.el8_8.src.rpm
-k/kpatch-patch-4_18_0-477_10_1-1-2.el8_8.src.rpm
-k/kpatch-patch-4_18_0-477_13_1-1-1.el8_8.src.rpm
 s/sssd-2.8.2-3.el8_8.src.rpm
-s/systemd-239-74.el8_8.3.src.rpm
-k/kpatch-patch-4_18_0-477_21_1-0-0.el8_8.src.rpm
 s/subscription-manager-1.28.36-3.el8_8.src.rpm
+s/sos-4.5.6-1.el8.src.rpm
+m/microcode_ctl-20220809-2.20230808.2.el8_8.src.rpm
+k/kpatch-patch-4_18_0-477_27_1-0-0.el8_8.src.rpm
+k/kpatch-patch-4_18_0-477_10_1-1-3.el8_8.src.rpm
+k/kpatch-patch-4_18_0-477_13_1-1-2.el8_8.src.rpm
+k/kpatch-patch-4_18_0-477_15_1-1-2.el8_8.src.rpm
+k/kpatch-patch-4_18_0-477_21_1-1-1.el8_8.src.rpm
+c/ca-certificates-2023.2.60_v7.0.306-80.0.el8_8.src.rpm
+c/cups-2.2.6-51.el8_8.2.src.rpm
+d/dmidecode-3.3-4.el8_8.1.src.rpm
+f/findutils-4.6.0-20.el8_8.1.src.rpm
+f/firewalld-0.9.11-1.el8_8.src.rpm
+i/iptables-1.8.4-24.el8_8.2.src.rpm
+k/kernel-4.18.0-477.27.1.el8_8.src.rpm
+l/linux-firmware-20230404-117.git2e92a49f.el8_8.src.rpm
+n/ncurses-6.1-9.20180224.el8_8.1.src.rpm
+s/selinux-policy-3.14.3-117.el8_8.3.src.rpm
+s/systemd-239-74.el8_8.5.src.rpm
