@@ -1,5 +1,6 @@
 Updating Subscription Management repositories.
-Red Hat CodeReady Linux Builder for RHEL 8 x86_  84 kB/s | 267 kB     00:03    
+Red Hat CodeReady Linux Builder for RHEL 8 x86_ 8.5 kB/s | 3.8 kB     00:00    
+Red Hat CodeReady Linux Builder for RHEL 8 x86_ 132 kB/s | 272 kB     00:02    
 j/jboss-interceptors-1.2-api-1.0.0-8.module+el8+2598+06babf2e.src.rpm
 p/perl-Test2-Suite-0.000111-1.el8.src.rpm
 r/rubygem-rspec-3.7.0-2.el8.src.rpm
@@ -22,7 +23,6 @@ s/sisu-0.3.3-6.module+el8+2598+06babf2e.src.rpm
 s/spice-parent-26-8.module+el8+2598+06babf2e.src.rpm
 p/perl-Params-Validate-1.29-5.el8.src.rpm
 m/maven-shared-io-3.0.0-5.module+el8+2598+06babf2e.src.rpm
-p/python-attrs-20.3.0-2.module+el8.4.0+9822+20bf1249.src.rpm
 c/cppunit-1.14.0-4.el8.src.rpm
 p/perl-File-Find-Object-0.3.2-5.el8.src.rpm
 p/perl-Class-Data-Inheritable-0.08-27.el8.src.rpm
@@ -58,7 +58,6 @@ m/mingw-pixman-0.34.0-5.el8.src.rpm
 p/perl-Date-ISO8601-0.005-2.el8.src.rpm
 o/ocaml-camlp4-4.07.0-0.gitd32d9973.1.el8.3.src.rpm
 c/cmocka-1.1.5-1.el8.src.rpm
-p/python-packaging-20.4-4.module+el8.4.0+9822+20bf1249.src.rpm
 m/mingw-readline-6.2-11.el8.src.rpm
 m/mingw-spice-vdagent-0.9.0-3.el8.src.rpm
 m/mingw-openssl-1.0.2k-2.el8.src.rpm
@@ -73,7 +72,6 @@ p/plexus-i18n-1.0-0.11.b10.4.module+el8+2598+06babf2e.src.rpm
 o/ocaml-extlib-1.7.5-3.el8.src.rpm
 d/doxygen-1.8.14-12.el8.src.rpm
 p/python-lesscpy-0.13.0-4.el8.src.rpm
-p/pytest-6.0.2-2.module+el8.4.0+9822+20bf1249.src.rpm
 t/transfig-3.2.6a-4.el8.src.rpm
 p/perl-File-Remove-1.57-6.el8.src.rpm
 p/perl-Ref-Util-0.203-4.el8.src.rpm
@@ -86,7 +84,6 @@ e/eigen3-3.3.4-6.el8.src.rpm
 c/compat-guile18-1.8.8-22.el8.src.rpm
 m/mingw-harfbuzz-1.4.8-3.el8.src.rpm
 m/maven-antrun-plugin-1.8-6.module+el8+2598+06babf2e.src.rpm
-p/python-more-itertools-8.5.0-2.module+el8.4.0+9822+20bf1249.src.rpm
 d/dotnet5.0-build-reference-packages-0-12.20211117git6ce5818.el8_5.src.rpm
 y/yasm-1.3.0-7.el8.src.rpm
 p/python-snowballstemmer-1.2.1-6.el8.src.rpm
@@ -107,7 +104,6 @@ p/perl-File-ReadBackwards-1.05-11.el8.src.rpm
 g/gperf-3.1-5.el8.src.rpm
 a/apache-ivy-2.4.0-14.module+el8+2598+06babf2e.src.rpm
 p/perl-Test-Fatal-0.014-9.el8.src.rpm
-c/Cython-0.29.21-5.module+el8.4.0+9822+20bf1249.src.rpm
 m/munge-maven-plugin-1.0-11.module+el8+2598+06babf2e.src.rpm
 m/mingw-fontconfig-2.12.6-3.el8.src.rpm
 l/lua-posix-33.3.1-9.el8.src.rpm
@@ -144,7 +140,6 @@ p/python-setuptools_scm-1.15.7-4.el8.src.rpm
 a/apache-resource-bundles-2-20.module+el8+2598+06babf2e.src.rpm
 w/weld-parent-34-5.module+el8+2598+06babf2e.src.rpm
 m/mockito-1.10.19-17.module+el8+2598+06babf2e.src.rpm
-p/python3x-pyparsing-2.4.7-5.module+el8.4.0+9822+20bf1249.src.rpm
 p/perl-Devel-Caller-2.06-15.el8.src.rpm
 p/perl-Class-Tiny-1.006-6.el8.src.rpm
 p/plexus-build-api-0.0.7-20.module+el8+2598+06babf2e.src.rpm
@@ -156,14 +151,12 @@ s/shim-unsigned-x64-15.6-1.el8.src.rpm
 p/perl-IPC-Run3-0.048-12.el8.src.rpm
 j/javacc-maven-plugin-2.6-25.module+el8+2598+06babf2e.src.rpm
 j/jna-4.5.1-4.el8.src.rpm
-g/glog-0.3.5-3.el8.src.rpm
 p/perl-File-Find-Rule-0.34-8.el8.src.rpm
 m/maven-3.5.4-5.module+el8+2598+06babf2e.src.rpm
 g/gnome-common-3.18.0-5.el8.src.rpm
 p/perl-Term-Size-Any-0.002-23.el8.src.rpm
 d/docbook-utils-0.6.14-44.el8.src.rpm
 m/maven-enforcer-1.4.1-8.module+el8+2598+06babf2e.src.rpm
-p/python-iniconfig-1.1.1-2.module+el8.4.0+9822+20bf1249.src.rpm
 p/plexus-archiver-3.6.0-1.module+el8+2598+06babf2e.src.rpm
 p/perl-Text-WrapI18N-0.06-30.el8.src.rpm
 p/plexus-bsh-factory-1.0-0.19.a7.module+el8+2598+06babf2e.src.rpm
@@ -191,7 +184,6 @@ s/SDL2-2.0.10-2.el8.src.rpm
 p/python-unittest2-1.1.0-16.el8.src.rpm
 m/maven-archiver-3.2.0-2.module+el8+2598+06babf2e.src.rpm
 j/jtidy-1.0-0.28.20100930svn1125.module+el8+2598+06babf2e.src.rpm
-p/python-wcwidth-0.2.5-3.module+el8.4.0+9822+20bf1249.src.rpm
 d/docbook-style-dsssl-1.79-25.el8.src.rpm
 a/apache-commons-collections-3.2.2-10.module+el8+2598+06babf2e.src.rpm
 u/uthash-2.0.2-4.el8.src.rpm
@@ -224,7 +216,6 @@ x/xerces-j2-2.11.0-34.module+el8+2598+06babf2e.src.rpm
 l/ladspa-1.13-20.el8.src.rpm
 p/perl-Sub-Uplevel-0.2800-4.el8.src.rpm
 b/bsf-2.4.0-30.module+el8+2598+06babf2e.src.rpm
-p/python-pluggy-0.13.1-3.module+el8.4.0+9822+20bf1249.src.rpm
 l/libaec-1.0.2-3.el8.src.rpm
 o/ocaml-findlib-1.8.0-4.el8.src.rpm
 l/lua-lunit-0.5-13.el8.src.rpm
@@ -275,7 +266,6 @@ s/sparsehash-2.0.2-8.el8.src.rpm
 l/libEMF-1.0.9-5.el8.src.rpm
 p/perl-Scope-Guard-0.21-7.el8.src.rpm
 p/python-sphinx-theme-alabaster-0.7.9-7.el8.src.rpm
-p/python-py-1.10.0-1.module+el8.4.0+9822+20bf1249.src.rpm
 a/apache-parent-19-2.module+el8+2598+06babf2e.src.rpm
 r/rpcsvc-proto-1.3.1-4.el8.src.rpm
 p/perl-Class-Singleton-1.5-9.el8.src.rpm
@@ -294,7 +284,6 @@ p/perl-Params-Classify-0.015-2.el8.src.rpm
 p/plexus-interpolation-1.22-9.module+el8+2598+06babf2e.src.rpm
 m/mingw-sqlite-3.26.0.0-1.el8.src.rpm
 g/geronimo-annotation-1.0-23.module+el8+2598+06babf2e.src.rpm
-g/gflags-2.1.2-6.el8.src.rpm
 g/glassfish-legal-1.1-11.module+el8+2598+06babf2e.src.rpm
 p/perl-Eval-Closure-0.14-5.el8.src.rpm
 x/xorg-x11-apps-7.7-21.el8.src.rpm
@@ -335,7 +324,6 @@ m/mingw-glib2-2.70.1-1.el8_5.src.rpm
 p/perl-File-DesktopEntry-0.22-7.el8.src.rpm
 p/perl-PerlIO-utf8_strict-0.007-5.el8.src.rpm
 p/plexus-velocity-1.2-4.module+el8+2598+06babf2e.src.rpm
-p/pybind11-2.7.1-1.module+el8.6.0+12838+640e6226.src.rpm
 m/mingw-libffi-3.1-4.el8.src.rpm
 n/nkf-2.1.4-8.el8.src.rpm
 m/metis-5.1.0-17.el8.src.rpm
@@ -457,7 +445,6 @@ j/jzlib-1.1.3-8.module+el8+2598+06babf2e.src.rpm
 m/mariadb-10.3.28-1.module+el8.3.0+10472+7adc332a.src.rpm
 p/perl-Exporter-Tiny-1.000000-4.el8.src.rpm
 l/liboggz-1.1.1-14.el8.src.rpm
-p/python-atomicwrites-1.3.0-8.module+el8.4.0+8888+89bc7e79.src.rpm
 s/slf4j-1.7.25-4.module+el8+2598+06babf2e.src.rpm
 p/perl-Test-Warnings-0.026-7.el8.src.rpm
 r/rubygem-rspec-core-3.7.1-5.el8.src.rpm
@@ -516,9 +503,24 @@ p/python3.11-pluggy-1.0.0-2.el8.src.rpm
 p/python3.11-setuptools-rust-1.5.2-1.el8.src.rpm
 a/autotrace-0.31.1-55.el8.src.rpm
 p/python3.11-pybind11-2.10.3-2.el8.src.rpm
-s/SLOF-20210217-1.module+el8.8.0+16781+9f4724c2.src.rpm
 p/python3.11-semantic_version-2.8.4-1.el8.src.rpm
 p/python3.11-packaging-21.3-1.el8.src.rpm
 m/mingw-expat-2.4.8-2.el8.src.rpm
 p/python3.11-iniconfig-1.1.1-2.el8.src.rpm
 p/python3.11-pytest-7.2.0-1.el8.src.rpm
+c/Cython-0.29.21-5.module+el8.9.0+19644+d68f775d.src.rpm
+s/SLOF-20210217-1.module+el8.9.0+18724+20190c23.src.rpm
+g/gflags-2.1.2-8.el8.src.rpm
+g/glog-0.3.5-6.el8.src.rpm
+p/pybind11-2.7.1-1.module+el8.9.0+19644+d68f775d.src.rpm
+p/pytest-6.0.2-2.module+el8.9.0+19644+d68f775d.src.rpm
+p/python-atomicwrites-1.3.0-8.module+el8.9.0+19592+4b459c9b.src.rpm
+p/python-attrs-20.3.0-2.module+el8.9.0+19644+d68f775d.src.rpm
+p/python-iniconfig-1.1.1-2.module+el8.9.0+19644+d68f775d.src.rpm
+p/python-more-itertools-8.5.0-2.module+el8.9.0+19644+d68f775d.src.rpm
+p/python-packaging-20.4-4.module+el8.9.0+19644+d68f775d.src.rpm
+p/python-pluggy-0.13.1-3.module+el8.9.0+19644+d68f775d.src.rpm
+p/python-py-1.10.0-1.module+el8.9.0+19644+d68f775d.src.rpm
+p/python-wcwidth-0.2.5-3.module+el8.9.0+19644+d68f775d.src.rpm
+p/python3x-pyparsing-2.4.7-5.module+el8.9.0+19644+d68f775d.src.rpm
+u/unifdef-2.10-21.el8.src.rpm
