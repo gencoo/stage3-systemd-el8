@@ -74,13 +74,13 @@
 >=dev-libs/npth-1.6-r1
 >=dev-libs/userspace-rcu-0.12.2
 >=dev-util/babeltrace-1.5.8
->=dev-util/cmake-3.20.4
+#>=dev-util/cmake-3.20.4
 >=dev-util/desktop-file-utils-0.24
 >=dev-util/diffstat-1.63
 >=dev-util/glib-utils-2.68.2
 >=dev-util/gtk-doc-1.33.2
 >=dev-util/gtk-doc-am-1.33.2
->=dev-util/meson-0.59
+#>=dev-util/meson-0.59
 >=dev-util/ninja-1.10.0
 >=dev-util/pkgconf-1.6.3
 >=dev-util/trace-cmd-2.9.1
@@ -180,7 +180,8 @@
 >=sys-fs/udisks-2.9.1-r2
 >=sys-fs/xfsprogs-5.10.0-r1
 >=sys-kernel/dracut-050-r2
->=sys-kernel/linux-headers-5.15
+>=sys-kernel/linux-headers-4.19
+>=sys-kernel/linux-firmware-20240115
 >=sys-libs/binutils-libs-2.34
 >=sys-libs/cracklib-2.9.7
 >=sys-libs/diffutils-3.7
@@ -193,7 +194,7 @@
 >=sys-libs/libsemanage-3.1
 >=sys-libs/libsepol-3.1
 >=sys-libs/libutempter-1.2.1
->=sys-libs/libxcrypt-4.4.20
+>=sys-libs/libxcrypt-4.4.28
 >=sys-libs/mtdev-1.1.6
 >=sys-libs/ncurses-6.2-r1
 >=sys-libs/pam-1.5.1
@@ -206,7 +207,6 @@
 >=www-servers/nginx-1.20.1
 >=x11-apps/xinit-1.4.1
 >=x11-apps/xkbcomp-1.4.5
->=x11-base/xcb-proto-1.14.1
 >=x11-libs/gtk+-3.24.29
 >=x11-libs/gtksourceview-3.24.11
 >=x11-libs/libX11-1.7.2
@@ -216,7 +216,6 @@
 >=x11-libs/libXres-1.2.1
 >=x11-libs/libXt-1.2.1
 >=x11-libs/libfontenc-1.1.4
->=x11-libs/libxcb-1.14
 >=x11-libs/pango-1.48.5
 >=x11-libs/pixman-0.40.0
 >=x11-libs/vte-0.64.2

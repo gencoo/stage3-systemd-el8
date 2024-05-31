@@ -25,7 +25,8 @@ app-i18n/ibus -nls
 
 media-video/vlc pulseaudio -X -a52 -mad -dts -dvbpsi -dvd  -gcrypt -gnome-keyring -gstreamer -libsamplerate -mpeg -ncurses -qt5 -ssl -svg -udev -vorbis -wayland -x264 -xml taglib
 net-misc/openssh -pie
-sys-kernel/rhel-kernel savedconfig initramfs modules zipmodules
+sys-kernel/linux-firmware savedconfig
+sys-kernel/rhel-kernel savedconfig initramfs modules zipmodules 
 dev-libs/nss utils
 net-misc/wget cookie_check ntlm
 net-nds/openldap -tcpd
@@ -48,4 +49,8 @@ sys-libs/libselinux pcre2 python
 # required by sys-apps/busybox-1.34.1-r1::gentoo[static]
 # required by @system
 # required by @world (argument)
->=virtual/libcrypt-1-r1 static-libs
+>=virtual/libcrypt-2-r1 static-libs
+# required by virtual/libcrypt-2-r1::gentoo
+# required by @selected
+# required by @world (argument)
+>=sys-libs/libxcrypt-4.4.18-r3 static-libs
