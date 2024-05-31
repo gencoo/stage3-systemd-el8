@@ -1,10 +1,9 @@
 Updating Subscription Management repositories.
-Red Hat CodeReady Linux Builder for RHEL 8 x86_ 2.6 kB/s | 3.8 kB     00:01    
-Red Hat CodeReady Linux Builder for RHEL 8 x86_  56 kB/s | 229 kB     00:04    
+Red Hat CodeReady Linux Builder for RHEL 8 x86_ 4.0 kB/s | 3.8 kB     00:00    
+Red Hat CodeReady Linux Builder for RHEL 8 x86_  79 kB/s | 234 kB     00:02    
 c/Cython-0.29.21-5.module+el8.9.0+19644+d68f775d.src.rpm
 l/LibRaw-0.19.5-1.el8.src.rpm
 s/SDL2-2.0.10-2.el8.src.rpm
-s/SLOF-20210217-1.module+el8.9.0+20735+c763a519.1.src.rpm
 s/SuperLU-5.2.0-7.el8.src.rpm
 a/ant-1.10.5-1.module+el8+2598+06babf2e.src.rpm
 a/ant-contrib-1.0-0.32.b3.module+el8+2598+06babf2e.src.rpm
@@ -136,7 +135,6 @@ j/jtidy-1.0-0.28.20100930svn1125.module+el8+2598+06babf2e.src.rpm
 j/junit-4.12-9.module+el8+2598+06babf2e.src.rpm
 j/jvnet-parent-4-10.module+el8+2598+06babf2e.src.rpm
 j/jzlib-1.1.3-8.module+el8+2598+06babf2e.src.rpm
-k/kronosnet-1.25-1.el8.src.rpm
 l/ladspa-1.13-20.el8.src.rpm
 l/latex2html-2018.2-2.el8.src.rpm
 l/lensfun-0.3.2-15.el8.src.rpm
@@ -269,7 +267,6 @@ o/osgi-compendium-6.0.0-5.module+el8+2598+06babf2e.src.rpm
 o/osgi-core-6.0.0-6.module+el8+2598+06babf2e.src.rpm
 p/pam_wrapper-1.0.7-2.el8.src.rpm
 p/pandoc-2.0.6-6.el8_6.src.rpm
-p/perl-AnyEvent-7.14-6.el8.src.rpm
 p/perl-B-Hooks-EndOfScope-0.21-6.el8.src.rpm
 p/perl-Canary-Stability-2012-5.el8.src.rpm
 p/perl-Capture-Tiny-0.46-4.el8.src.rpm
@@ -291,7 +288,6 @@ p/perl-DateTime-Format-ISO8601-0.08-17.el8.src.rpm
 p/perl-DateTime-Format-Mail-0.403-6.el8.src.rpm
 p/perl-DateTime-Format-Strptime-1.75-2.el8.src.rpm
 p/perl-DateTime-Locale-1.17-2.el8.src.rpm
-p/perl-DateTime-TimeZone-2.19-1.el8.src.rpm
 p/perl-DateTime-TimeZone-SystemV-0.010-3.el8.src.rpm
 p/perl-DateTime-TimeZone-Tzfile-0.011-3.el8.src.rpm
 p/perl-Devel-CallChecker-0.008-3.el8.src.rpm
@@ -461,7 +457,6 @@ p/python3.11-attrs-22.1.0-1.el8.src.rpm
 p/python3.11-iniconfig-1.1.1-2.el8.src.rpm
 p/python3.11-packaging-21.3-1.el8.src.rpm
 p/python3.11-pluggy-1.0.0-2.el8.src.rpm
-p/python3.11-pybind11-2.10.3-2.el8.src.rpm
 p/python3.11-pyparsing-3.0.7-3.el8.src.rpm
 p/python3.11-pytest-7.2.0-1.el8.src.rpm
 p/python3.11-semantic_version-2.8.4-1.el8.src.rpm
@@ -524,3 +519,17 @@ x/xorg-x11-util-macros-1.19.2-1.el8.src.rpm
 x/xorg-x11-xtrans-devel-1.4.0-4.el8.src.rpm
 x/xz-java-1.8-2.module+el8+2598+06babf2e.src.rpm
 y/yasm-1.3.0-7.el8.src.rpm
+s/SLOF-20210217-2.module+el8.10.0+20141+6faa2812.src.rpm
+k/kronosnet-1.28-1.el8.src.rpm
+p/perl-AnyEvent-7.14-8.el8.src.rpm
+p/perl-DateTime-TimeZone-2.62-1.el8.src.rpm
+p/python3.11-pybind11-2.10.3-3.el8.src.rpm
+p/python3.12-Cython-0.29.35-3.el8.src.rpm
+p/python3.12-flit-core-3.9.0-3.el8.src.rpm
+p/python3.12-iniconfig-1.1.1-3.el8.src.rpm
+p/python3.12-packaging-23.2-2.el8.src.rpm
+p/python3.12-pluggy-1.2.0-3.el8.src.rpm
+p/python3.12-pybind11-2.11.1-3.el8.src.rpm
+p/python3.12-pytest-7.4.2-2.el8.src.rpm
+p/python3.12-semantic_version-2.10.0-2.el8.src.rpm
+p/python3.12-setuptools-rust-1.7.0-2.el8.src.rpm
