@@ -1,5 +1,5 @@
 unused_patches=( "patch132 -p1" "patch251 -p1" "patch329 -p1" )
-inherit rhel8-a autotools flag-o-matic toolchain-funcs
+inherit autotools flag-o-matic toolchain-funcs rhel8-a
 CMAKE_MAKEFILE_GENERATOR=emake
 	set_build_flags
 	build_cflags
@@ -100,7 +100,7 @@ src_unpack() {
 }
 
 src_unpack() {
-	rhel_unpack ${A} && unpack ${WORKDIR}/*.tar.*
+	rpmbuild_unpack ${A} && unpack ${WORKDIR}/*.tar.*
 	rpmbuild --rmsource -bp $WORKDIR/*.spec --nodeps
 	sed -i "/patch5 -p1/d" ${WORKDIR}/*.spec
 	sed -i 's/EFI_VENDOR=fedora/EFI_VENDOR=qubes/g' ${S}/xen/Makefile
