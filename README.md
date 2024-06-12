@@ -4,4 +4,4 @@
 
 first read "stage3-systemd-el8/el8_repo_pkg_lists/wgetrc"
 
-releases: https://github.com/gencoo/stage3-systemd-el8.9
+releases: https://github.com/gencoo/stage3-systemd-el8.10

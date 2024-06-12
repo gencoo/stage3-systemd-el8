@@ -39,7 +39,7 @@ app-text/sgml-common
 app-text/tree
 app-text/xmlto
 
-###backports el9 ### perl | dbus | gpgme | libxcrypt | ipset | jansson | pinentry | bash | readline | glib | lm-sensors
+###backports el9 ### perl | dbus | libxcrypt | ipset | jansson | pinentry | bash | readline | glib | lm-sensors
 
 dev-db/lmdb
 dev-db/sqlite

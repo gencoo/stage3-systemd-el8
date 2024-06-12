@@ -3,7 +3,7 @@
 ### merge kde-plasma/rhel8-plasma-meta
 exec startplasma-x11
 
-app-crypt/qca/qca
+app-crypt/qca
 dev-libs/plasma-wayland-protocols
 media-libs/kcolorpicker
 media-libs/kimageannotator
@@ -25,6 +25,7 @@ app-text/enchant
 app-text/poppler
 dev-libs/isl
 dev-util/gtk-doc
+gnome-base/librsvg
 media-libs/alsa-lib
 media-libs/fontconfig
 media-libs/lcms
@@ -33,10 +34,14 @@ media-libs/libglvnd
 media-libs/libjpeg-turbo
 media-libs/mesa
 media-sound/pulseaudio
+net-libs/libqmi
+net-libs/libssh
+sys-libs/mtdev
 sys-libs/gpm
 sys-libs/slang
 x11-base/xcb-proto
 x11-base/xorg-server
+x11-base/xwayland
 x11-libs/gtk+-3.22
 x11-libs/libdrm
 x11-libs/libfontenc
@@ -47,14 +52,16 @@ x11-libs/libXft
 x11-libs/libXrandr
 x11-libs/pango
 x11-libs/pixman
+x11-libs/xcb-util
+x11-libs/xcb-util-image
+x11-libs/xcb-util-keysyms
+x11-libs/xcb-util-renderutil
+x11-libs/xcb-util-wm
 x11-misc/xkeyboard-config
 x11-themes/adwaita-icon-theme
 ####################
 
-####backports fc37######
-app-i18n/fcitx-libpinyin
-
-####backports c9s######
+####backports rhel9######
 app-accessibility/at-spi2-atk
 app-accessibility/at-spi2-core
 app-i18n/libpinyin
@@ -106,14 +113,11 @@ net-libs/libasyncns
 net-libs/libmbim
 net-libs/libpcap
 net-libs/libproxy
-net-libs/libqmi
 net-libs/libsoup
-net-libs/libssh
 net-print/cups-filters
 sys-apps/accountsservice
 sys-apps/lm-sensors
 sys-auth/polkit
-sys-libs/mtdev
 sys-power/upower
 x11-apps/setxkbmap
 x11-apps/xauth
@@ -141,11 +145,6 @@ x11-libs/libXt
 x11-libs/libXtst
 x11-libs/libXv
 x11-libs/libXxf86vm
-x11-libs/xcb-util
-x11-libs/xcb-util-image
-x11-libs/xcb-util-keysyms
-x11-libs/xcb-util-renderutil
-x11-libs/xcb-util-wm
 x11-misc/util-macros
 x11-misc/xbitmaps
 x11-misc/xdg-utils

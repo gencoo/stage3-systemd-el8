@@ -5,7 +5,6 @@ dev-python/Babel
 dev-python/cffi
 dev-python/chardet
 dev-python/configobj
-dev-python/configshell-fb
 dev-python/cryptography
 dev-python/cython
 dev-python/dbus-python
